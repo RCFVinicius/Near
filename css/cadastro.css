@@ -1,0 +1,58 @@
+
+body{
+    background-color: #DA70D6;
+}
+
+input{
+    border: "15px";
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+input
+{
+    border-radius: 34px;
+}
+
+button
+{
+    border-radius: 20px;
+}
+/*id*/
+
+
+#menuzinho
+{
+    background-color: blueviolet;
+}
+.borda
+{
+    margin:15px;
+    border-style:solid;
+    border-radius: 30px;
+    color:   rgb(76, 29, 117);
+    background-color:  blueviolet;
+    
+}
+.borda h1
+{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#borda
+{
+    border: solid;
+    border-radius: 20px;
+    color: blueviolet;
+    background-color: darkorchid;
+}
+#texto
+{
+    color:rgb(47, 18, 77);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
